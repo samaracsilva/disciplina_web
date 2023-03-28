@@ -10,6 +10,6 @@ public class HelloWorld {
     @RequestMapping("/")
     public String helloWorld() {
         System.out.println("Vai retornar hello world");
-        return "Hello World!";
+        return "Hello World!!!";
     }
 }
